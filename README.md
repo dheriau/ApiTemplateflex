@@ -1,2 +1,0 @@
-# ApiTemplateflex
-templateApi
